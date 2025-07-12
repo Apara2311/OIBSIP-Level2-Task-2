@@ -3,13 +3,13 @@
 a famous quote — all wrapped in a clean, center-aligned, modern layout.
 <br>
 
-# ✨ Features
-✅ Appealing layout
-✅ Quote + Image side-by-side section
-✅ "What I Adore in Her" section with paragraph breaks
-✅ Short, crisp biography
-✅ Section-wise background colors and font changes
-✅ Fully responsive on all screen sizes
+# ✨ Features <br>
+✅ Appealing layout<br>
+✅ Quote + Image side-by-side section<br>
+✅ "What I Adore in Her" section with paragraph breaks<br>
+✅ Short, crisp biography<br>
+✅ Section-wise background colors and font changes<br>
+✅ Fully responsive on all screen sizes<br>
 # 📁 File Structure<br>
 tribute-page/<br>
 │<br>
