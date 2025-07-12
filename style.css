@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  font-family: 'Georgia', serif;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.container {
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+}
+
+.hero {
+  background-color: #111;
+  padding: 40px 20px;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #ccc;
+  font-family: 'Arial', sans-serif;
+}
+
+.play-icon {
+  font-size: 2rem;
+  margin-top: 20px;
+  border: 2px solid #fff;
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.quote-section {
+  display: flex;
+  background-color: #f9f9f9;
+  color: #111;
+  padding: 30px 20px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.quote-text {
+  flex: 1;
+  font-size: 1.2rem;
+  font-style: italic;
+  margin-bottom: 15px;
+  font-family: 'Georgia', serif;
+}
+
+.quote-img {
+  flex: 1;
+}
+
+.quote-img img {
+  max-width: 250px;
+  border-radius: 5px;
+}
+
+.adore-section {
+  background-color: #2441a2;
+  color: #fff;
+  padding: 40px 30px;
+  text-align: left;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.adore-section h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.adore-section p {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.bio-section {
+  background-color: #222;
+  color: #eee;
+  padding: 40px 30px;
+  text-align: left;
+  font-family: 'Georgia', serif;
+}
+
+.bio-section h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.bio-section p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+footer {
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #888;
+  font-family: 'Courier New', monospace;
+}
