@@ -1,5 +1,5 @@
-# Mother Teresa Tribute Page
-🌟This is a responsive and visually elegant tribute page dedicated to Mother Teresa, created using only HTML and CSS. It highlights what we adore in her, a short biography, and
+# 🌟 Mother Teresa Tribute Page
+This is a responsive and visually elegant tribute page dedicated to Mother Teresa, created using only HTML and CSS. It highlights what we adore in her, a short biography, and
 a famous quote — all wrapped in a clean, center-aligned, modern layout.
 <br>
 
